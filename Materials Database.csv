@@ -1,0 +1,491 @@
+Client,R/Q,Recd Date,Item/Product #,Material Name,Vendor,Manufacturer,LPI-Lot Number,Exp/Retest Date,Initial Balance,UOM,Balance
+ADJ,R,2021-02-16,0553859B/430791," CentrifugeTUBE , 15mL Sterile",Fisher Scientific,Fisher Scientific,RM-16022021-0005,2025-11-18,500,PCS,0
+ADJ,R,2021-02-01,96-2670,"Dressing Forceps, 5 & 1/2, Sterile",Fisher Scientific ,Sklar Corp,RM-01022021-0001,2023-07-28,50,PCS,0
+ADJ,R,2020-12-28,H93811," Repeater Pump TUBE Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-08-31,10,PCS,0
+ADJ,R,2021-02-23,844181/305181,"NEEDLE, Hypo 18G x 1"" Blunt Fill",McKesson Medical,BD,RM-23022021-0001,2025-11-30,100,PCS,0
+ADJ,R,2021-02-23,1482618B/305198,"NEEDLE, Sterile 16G x 1  1/2""",Fisher Scientific ,BD,RM-23022021-0004,2025-07-31,100,PCS,0
+ADJ,R,2021-02-18,1222X31/36902-0010,"SCOOP, White 60ml",Thomas Scientific,,RM-18022021-0001,2026-02-18,10,PCS,0
+ADJ,R,2020-12-15,59221120,"SEAL,"" Flip Off"" 5417  FOCCS 13mm ",West Pharma,West Pharma,,2022-06-22,5000,PCS,0
+ADJ,R,2020-12-18,BHL2B1324XH,SODIUM CHLORIDE (NACL)Solution 0.9%,Medline,Medline,,2022-04-30,10000,mL,0
+ADJ,R,2021-02-12,14-245-98/3006,"SPATULA, V Scoop",Fisher Scientific ,Fisher Scientific,RM-12022021-001,2023-10-05,100,PCS,0
+ADJ,R,2020-12-15,19700360,"STOPPER, 13mm Serum NovaPure",West Pharma,West Pharma,,2022-05-31,10000,PCS,0
+ADJ,R,2021-02-04,20163291,TQL 1055 Free Acid,Adjuvance,Adjuvance,RM-04022021-0001,2021-02-28,2,Gram,0
+ADJ,R,,VCD020S18,"VIAL, Clear Glass 20mL, 30 x 55 x 1.3 mm",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-16022021-0002,2026-02-16,1001,Vials,0
+ADJ,R,2021-01-04,68000397,"VIALS, EZ-Fill VB 3mL ISO 8362-1-1C-2R Tray",West Pharma,West Pharma,,2026-01-04,4560,Vials,0
+ADJ,R,2020-12-16,771010008,"VIALS, RTF 2R 75101 INVIR 4.0 UB6",Gerresheimer Bunde,Gerresheimer Bunde,,2025-12-16,15960,Vials,0
+ADJ,R,,VCD010,"VIAL, Tubular Glass 10ml, 18mm Screw Neck",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-16022021-0001,2026-02-16,1120,Vials,0
+ADJ,R,2021-02-08,120710,"WEIGH  BOAT, White Sterile",Heathrow Scientific,CGN Gray Tech CO.,RM-08022021-0002,2023-10-31,200,PCS,0
+LPI-GM,R,2022-09-23,FX13112852,"BAGS, Biotech ST Flexel 10L",Sartorius,,RM-23092022-0001,2027-09-23,12,PCS,12
+CPI,R,,ET107,"Dehydrated Alcohol 200 Proof, USP",Spectrum Chem,Spectrum Chem,,2023-03-25,100,mL,100
+CPI,R,,P1430,"N-Propyl Alcohol, Reagent, ACS",Spectrum Chem,Spectrum Chem,,2025-01-31,500,mL,500
+DAV,R,2020-07-06,486505,"Water, Sterile, Cell Culture Tested",EMD Millipore,Omnipur,,2021-06-30,190.64,kg,0
+DAV,R,2020-10-14,,PHOSPHOLIPON  90G,Fisher Scientific ,"Lipoid, LLC",,2022-03-31,3,Kg,0
+DAV,R,2020-10-19,8995-01,"EDETATE Disodium, USP",J. T. Baker,Avantor,,2024-07-02,489.9,Gram,473.27
+DAV,R,2020-10-19,374032G,"Hydrochloric Acid, 5.00 Normal",Fisher Scientific ,Ricca Chemical,,2022-09-30,947.6,mL,0
+DAV,R,2020-10-19,50045,Miglyol ® 812N,IOI Oleo GmbH,,,2022-09-30,24.09,Kg,-0.0030999999999998806
+DAV,R,2020-10-19,745032,"SODIUM HYDROXIDE, 1.00 Normal",Fisher Scientific ,Ricca Chemical,,2022-09-30,1000,mL,0
+DAV,R,2020-10-19,S-124-2-MC,"SUCROSE, NF, EP, JP, ChP High Purity",Pfanstiehl,Pfanstiehl,,2025-05-31,1,Kg,1
+DAV,R,2020-10-19,S-124-2-MC,"SUCROSE, NF, EP, JP, ChP High Purity",Pfanstiehl,Pfanstiehl,,2025-06-30,,Kg,-0.0027999999999996916
+DAV,R,2020-10-21,H93811," Repeater PUMP, Sterile Tube Sets",Medline,Baxter Healthcare Corp.,,2023-03-31,10,PCS,6
+DAV,R,2020-10-26,EW-13002-20," PIPETTE, Serological 50mL Sterile",Cole-Parmer,Argos Tech,,2023-04-06,96,PCS,96
+DAV,R,2020-10-26,4686," TUBING, Suction Non-Conductive 1/4""x6, Sterile",MedEx Supply,Dynarex,,2025-05-09,49,PCS,49
+DAV,R,2020-10-28,343050-0030," TANK LINERS, Coex Polyethlene Film 30GAL",Thermo Fisher,Life Tech Corp.,,2025-10-28,20,PCS,20
+DAV,R,2020-10-30,120710,"WEIGH BOAT, Std Med White As",Heathrow Scientific,CGN Gray Tech CO.,,2023-03-31,36,PCS,0
+DAV,R,2020-11-02,WFI-USP-1x6L,"WFI, USP Sterile Grade",Spectrum Chem,Intermountain Life,,2023-08-18,24,Liter,42
+DAV,R,2020-11-02,WFI-USP-20L,"WFI, USP Sterile Grade",Intermountain Life,Intermountain Life,,2023-09-15,100,Liter,0
+DAV,R,2020-11-03,KM5DFLP2S,"FILTER,  0.2um EX EDF Flourodyne",Pall Corp,Pall Corp,,2023-05-31,3,PCS,3
+DAV,R,2020-11-03,KA3DFLP1S,"FILTER,  0.2um Fluorodyne II  ",Pall Corp,Pall Corp,,2025-11-03,8,PCS,6
+DAV,R,2020-11-03,KA3DBLP1,"FILTER, 0.45 um Fluorodyne II ",Pall Corporation,PALL Corp,,2025-11-03,2,PCS,1
+DAV,R,2020-11-04,H93811," Repeater PUMP, Sterile Tube Sets",Medline,Baxter Healthcare Corp.,,2023-02-28,9,PCS,0
+DAV,R,2020-11-06,2701G,"ETHANOL, (Ethyl Alcohol) 200 Proof",Fisher Scientific ,Decon Labs,,2023-10-31,4,GAL,6
+DAV,R,2020-11-17,SH30712.02,BioProcess Container 10L,Fisher Scientific ,Thermo Scientific,RM-22032021-0001,2023-10-31,5,PCS,0
+DAV,R,2020-11-17,EW-30614-59,Y-connector with 3/8',Cole-Parmer,Cole-Parmer,,2025-11-17,18,PCS,34
+DAV,R,2020-11-23,S2GVU11RE,"STERICUP,  Quick Release Vacuum-driven Filtration 1,000mL",Fisher Scientific,Millipore,,2023-03-31,12,PCS,1
+DAV,R,2020-11-23,771010008,"VIALS, RTF 2R 75101 INVIR 4.0 UB6",Gerresheimer Bunde,Gerresheimer Bunde,,2025-11-23,11400,Vials,1824
+DAV,R,2020-11-24,31311-67,"Fittings/Couplings 3/8"" F Cap w/Lock",Cole-Parmer,Cole-Parmer,,2025-11-24,5,PCS,20
+DAV,R,2020-11-25,EW-31311-62,"Fittings/Couplings 3/8""",Cole-Parmer,Cole-Parmer,,2025-11-25,25,PCS,0
+DAV,R,2021-01-11,96440-35,"Tubing Mflex Silicone, #35, 25ft",Cole-Parmer,Cole-Parmer,,2026-01-11,3,PCS,1
+DAV,R,2021-02-05,PGC0125MS-C," PETG BOTTLES, Triforest Square 125mL Media/Packaging Bottles",Fisher Scientific ,TriForest,RM-05022021-0003,2024-11-30,96,PCS,52
+DAV,R,2021-02-05,SH30712.01,BioProcess Container 5L Labtainer,Fisher Scientific ,Thermo Scientific,RM-05022021-0004,2023-12-31,5,EA,1
+DAV,R,2021-02-05,29241900,DT-2216 (Pyrrolidine),Anthem Bioscience,Anthem Biosciences,RM-05022021-0005,2021-10-21,50,Gram,0
+DAV,R,2021-02-08,A962,"ALCOHOLl, Reagent",Fisher Scientific ,Fisher Scientific,RM-02082021-0007,2023-12-31,4,Liter,2
+DAV,R,2021-02-08,31311-12,"Fittings PC 3/8""",Cole-Parmer,Cole-Parmer,RM-08022021-0003,2024-02-29,15,PCS,0
+DAV,R,2021-02-08,96105-09,"TUBING PHARMA-50 3/8 x 5/8, 50ft",Cole-Parmer,Cole-Parmer,RM-08022021-0006,2025-12-10,2,PCS,200
+DAV,R,2021-02-12,31311-61,"Fittings PC 1/4"" ",Cole-Parmer,Cole-Parmer,RM-12022021-0002,2024-02-29,15,PCS,20
+DAV,R,2021-03-02,19700360,"STOPPER, 13mm Serum NovaPure 4023/50 Gray",West Pharma Inc.,West Pharma Inc.,RM-02032021-0001,2022-11-30,6000,PCS,0
+DAV,R,2021-03-03,120710,"WEIGH BOAT, Std Med White As",Heathrow Scientific,CGN Gray Tech CO.,RM-03032021-0001,2023-10-31,1000,PCS,800
+DAV,R,2021-03-08,PX 1838-1,"ALCOHOL, Iso-Propyl HPLC Grade (2 Propanol)",Sigma Aldrich,Sigma Aldrich,RM-08032021-0003,2023-03-08,8,GAL,8
+DAV,R,2021-03-08,5922-1120,"SEALS, Flip-Off CCS 13mm",West Pharma,West Pharma,RM-08032021-0002,2022-06-22,6000,PCS,0
+DAV,R,2021-03-11,14-245-99,"SPATULA, Flat End",Fisher Scientific,Corning,RM-11032021-0001,2023-09-19,100,PCS,84
+DAV,R,2021-03-22,SH30712.02,BioProcess Container 10L, Fisher Scientific,Thermo Scientific,RM-22032021-0001,2024-03-31,5,PCS,0
+DAV,R,2021-04-01,04-355-721/2701GTP,"ETHANOL, (Ethyl Alcohol) 200 Proof",Fisher Scientific,Decon Labs,RM-01042021-0001,2024-03-31,8,GAL,2
+DAV,R,2021-04-20,29241900,DT-2216 (Pyrrolidine),Anthem Bioscience,Anthem Biosciences,RM-20042021-0001,2022-10-18,50,Gram,0.35200000000000387
+DAV,R,2021-04-21,DAV-BPR-003,"DT2216  Injection, 7.5m/mL",Anthem Bioscience,Anthem Bioscience,LPI2021029,2021-10-21,1104,Vials,0
+DAV,R,2021-04-22,EW-31311-61,"Fittings PC 1/4"" ",Cole Palmer,Cole Palmer, RM-22042021-0003,2026-04-22,25,PCS,5
+DAV,R,2021-05-06,04-355-723,ETHANOL 190 Proof,Fisher Scientific ,Decon Labs,RM-06052021-0001,2024-02-29,4,GAL,1
+DAV,R,2021-06-22,WFI-USP-20L,"WFI, USP Sterile Grade",Fisher Scientific ,Intemountain ,RM-0202021-0004,2021-05-04,2,Liter,1
+DAV,R,2021-06-24,DYND50320,"BOWL, Sterile Large 32oz",Medline,,RM-24062021-0001,2026-06-24,50,PCS,46
+DAV,R,2021-06-24,DYND50320,"BOWL, Sterile Large 32oz",Medline,,RM-30062021-0001,2026-06-30,25,PCS,21
+DAV,R,,34860,"Methanol, for HPLC, > = 99.9%",Sigma-Aldrich,Millipore,,2025-05-30,4,Liter,4
+DAV,R,,3421160,"SP Scienceware Wash Bottle, Deionized Water 500mL",Fisher Scientific ,Fisher Scientific,,,4,EA,0
+DAV,R,,2993416,"Trigger Spray Bottles, 16oz HDPE",Fisher Scientific ,Qorpak,,,12,EA,0
+DAV,R,,96440-24,"Tubing Mflex Silicone, #24, 25ft",Cole-Parmer,Cole-Parmer,RM-12022021-0003,2025-12-18,2,PCS,0
+EMI,R,2021-01-29,CV-8753,EMX151,Sterling Pharma Solutions,Sterling Pharma Solutions,RM-29012021-0001,2021-11-26,200,mL/mg,0
+EMI,R,2021-01-25,3461114103T/0002-002,Kleptose HP Parenteral Grade,Roquette America,Roquette America,,2022-05-21,1000,Gram,0
+EMI,R,2020-12-16,771010008,"VIALS, RTF 2R 75101 INVIR 4.0 UB6",Gerresheimer Bunde,Gerresheimer Bunde,,2025-12-16,2052,PCS,0
+EMI,R,2021-02-05,SH30712.01,"BioProcess Container, 5L",Fisher Scientific ,Thermo Scientific,RM-05022021-0001,2023-12-31,5,Bags,0
+EMI,R,2021-01-18,222-1130-B1I,"FORCEPS 130MM ""Blue"" Sterile",Amazon,Caplugs Evergreen,,2026-01-18,100,PCS,0
+EMI,R,2021-01-18,96-2903,"CLAMP, Plastic Tub, Small",Fisher Scientific/ CSI,Sklar Corp,,2023-11-20,100,PCS,0
+EMI,R,2021-01-18,89140-804,"POUCH , Self Seal Sterilization ""Pouch""",VWR International,VWR,,2023-09-30,200,PCS,200
+EMI,R,2021-01-18,H93811/BXC11, Repeater PUMP Tube Sets Sterile,Mediline,Baxter Healthcare Corp.,,2023-08-31,10,PCS,0
+EMI,R,2021-01-21,120710,"WEIGH BOAT, Sterile White",Heathrow Scientific,Heathrow Scientific,,2023-10-31,200,PCS,0
+EMI,R,2021-03-10,346114103T,KLEPTOSE HP Parenteral Grade,Roquette,Roquette,RM-10032021-0001,2022-05-29,2000,Gram,0
+EMI,R,2021-03-23,SH30712.05,"BioProcess Container, 2L Labtainer",Fisher Scienific,Thermo Fisher,RM-23032021-0001,2024-03-31,5,Bags,0
+HDT,R,2021-04-19,12094,"FILTER,  Pall Acropak 0.2 micron",Pall Corp,Pall Corp,RM-19042021-0006,2022-10-31,6,PCS,0
+HDT,R,2021-04-16,EW-96440-24,"TUBING, Mflex Silicone #24, 25'",Cole Palmer,Cole Palmer,RM-16042021-0001,2026-01-12,2,PCS,2
+HDT,R,2021-04-28,AC115-4LTGL,"ACETONE, NF",Spectrum,Spectrum,RM-28042021-0001,2024-01-07,4,L,1.8399999999999999
+HDT,R,2021-04-19,32211-2.5L,CHLOROFORM,Sigma Aldrich,Sigma Aldrich,RM-19042021-0003,2022-05-31,2.5,Liter,0
+HDT,R,2021-04-19,1.37003.1000,CITRIC Acid Monohydrate,EMD Millipore,EMD Millipore,RM-19042021-0005,2022-08-31,1000,Gram,0
+HDT,R,2021-04-05,SOR-15,"IRON OXIDE  (II, III)",HDT,Ocean Nanotech,RM-05042021-0002,2021-06-18,15,mL,0
+HDT,R,2021-04-19,SPA63-500GM,SORBITAN Monostearate,Spectrum,Spectrum,RM-19042021-0002,2023-11-30,500,Gram,428.58
+HDT,R,2021-04-05,111-02-4,SQUAPURE-SQUALENE,HDT,Ophim,RM-05042021-0001,2021-08-06,5,Kg,0
+HDT,R,2021-04-21,16104-6X250G,SUCROSE,Sigma Aldrich,Sigma Aldrich,RM-21042021-0001,2022-04-30,1500,Gram,0
+HDT,R,2021-04-19,8170612500,TWEEN 80  (Polysorbate),EMD Millipore,EMD Millipore,RM-19042021-0004,2022-03-31,2.5,Liter,0
+HDT,R,2021-04-15,WFI-USP-20L,"WFI, USP Sterile Grade",Spectrum,Intermountain,RM-15042021-0001,2024-02-17,20,Liter,0
+HDT,R,2021-05-17,7450-32,SODIUM  HYDROXIDE,Fisher Scientific,RICCA,RM-17052021-0001,2023-04-30,1000,mL,531.5
+LPI-GM,R,2020-10-28,SH30712.02,BioProcess Container 10mL with Quick Connects,Thermo Scientfic,,,2023-10-31,8,PCS,0
+LPI-GM,R,2021-01-22,2701GTP,Ethanol (Ethyl Alcohol),Fisher Scientific ,Decon Labs,,2023-12-31,4,Liter,1
+LPI-GM,R,,S101A,Dabouraud Dextrose Agar,Dynatec Scientific Lab,Dynatec Scientific Lab,,2021-04-19,200,plates,180
+LPI-GM,R,2021-02-15,T101A-LT,TSA L/T Contact Plate 13mL Agar,Dynatec Scientific Lab,Dynatec Scientific Lab,RM-15022021-0001,2021-09-06,200,PCS,0
+LPI-GM,R,2020-09-25,B99113,Trypiticase Soy Broth (500mL),Fisher Scientific ,BD,,2021-03-23,5000,mL,0
+LPI-GM,R,2020-11-12,W1146-20LT," WATER, Purified USP 20L",Spectrum Chem,Spectrum Chem,,2022-06-30,240,Liter,0
+LPI-GM,R,2020-10-28,DYND50320,"BOWLS, Sterile Plastic , Large 32oz",Mediline,,,2025-10-28,48,PCS,0
+LPI-GM,R,2020-10-28,SH30712.02,"BioProcess Container, w/Quick Connects",Fisher Scientific ,Thermo Scientific,,2023-10-31,10,PCS,6
+LPI-GM,R,,22-363-608,Disposable Inoculating Loops/Needles,Fisher Scientific ,Fisher Brand,,,250,EA,250
+LPI-GM,R,2021-01-06,1002933492,"TUBING Pharma 50' 3/8 x 5/8 """,Ebay,Dow Chemical Company,,2023-09-09,50,FT,0
+LPI-GM,R,2020-10-30,96-2670,"Dressing Forceps, 5 & 1/2, Sterile",VWR International,Sklar Corp,,2023-07-28,25,PCS,5
+LPI-GM,R,,10221,Drum Liner 30 GAL 'Clear' 15MIL Smooth,US Plastic Corp,US Plastic Corp,,,25,EA,25
+LPI-GM,R,2021-02-03,KA2DFLP2S,"FILTER,  0.2um Fluorodyne II  ",Pall Corp,Pall Corp,RM-03022021-0003,2023-06-30,1,EA,0
+LPI-GM,R,2020-10-27,222-1130-B1I,"Forceps 130MM ""Blue"" Sterile",Amazon,Caplugs Evergreen,,2025-10-27,97,PCS,28
+LPI-GM,R,2020-12-23,96-2903,"CLAMP,Small Plastic  Sterile 4-1/2""",Fisher Scientific ,Sklar Corp,,2023-11-20,100,EA,97
+LPI-GM,R,2020-10-30,H93811," REPEATER  PUMP Tube Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-06-30,10,PCS,0
+LPI-GM,R,2020-10-28,96-2514,"SCISSORS,  STR B/B 5.5"" Sterile",Fisher Scientific ,Sklar Corp,,2023-01-29,44,PCS,0
+LPI-GM,R,,89140-804,"Self Seal Sterilization ""Pouch""",VWR International,VWR International,,2023-09-22,200,EA,200
+LPI-GM,R,,GEM1124,Single Ply Sterilization Wrap 24x24 in,Amazon,Medline,,,500,EA,500
+LPI-GM,R,,82GVU11RE,"Stericup Quick Release Vacuum-driven Filtration 1,000mL",Fisher Scientific ,Millipore,,2023-03-31,12,PCS,12
+LPI-GM,R,2021-04-28,T101A-LT,TSA/LT (12/4/21) Contact Plates 13mm (Newest),Dynatec Lab,Dynatec Lab,RM-2804021-0002,2021-12-04,400,PCS,250
+LPI-GM,R,2020-11-16,JT8995-1,EDTA,JT Baker,JT Baker,,2024-04-10,500,Gram,500
+LPI-GM,R,2020-11-16,4107809,GLUCAGON,BaChem,BaChem,,2021-05-31,11.4,Gram,11.4
+LPI-GM,R,2021-04-26,773000008,"VIALS, Rtf 10R",Gerresheimer Bunde,Gerresheimer Bunde,RM-26042021-0001,2026-04-26,5760,PCS,3840
+LPI-GM,R,2021-05-07,T101A-LT,TSA/LT (9/13/21)1 Contact Plate 13mm,Dynatec Lab,Dynatec Lab,RM-07052021-0001,2021-09-13,10,PCS,0
+LPI-GM,R,2020-11-16,JT3627-1,SODIUM CHLORIDE (NaCl) Granular,J. T. Bakier,J.T. Baker,,2024-11-05,500,Gram,500
+LPI-GM,R,2021-05-11,89408-026/ P34,TSA/LT-T80 (07/19/21) Contact Plates 15mm ,VWR,Hardy Diagnostics,RM-11052021-0001,2021-07-19,400,PCS,0
+LPI-GM,R,2021-05-12,54202228,"SEALS, SteriClosures/Seals 20mm",Prince,West Pharma,RM-12052021-0003,2023-03-30,3200,PCS,0
+LPI-GM,R,2021-05-12,W015258,"STOPPERS, SteriStoppers 20mm",Prince,Duran Wheaton Kimble,RM-12052021-0002,2023-03-03,3200,PCS,0
+LPI-GM,R,2021-05-12,1551293,"VIALS, SteriVials 20mm",Prince,Schott,RM-12052021-0001,2023-01-27,3036,PCS,132
+LPI-Remdesivir,R,2020-10-21,475-31-0,Glycocholic Acid,ICE S.p.A.,ICE S.p.A.,,2025-01-31,3,Kg,1.9999
+LPI-Remdesivir,R,2020-11-17,H-285-1LT,"Hydrochloric Acid, 10.0 Normal Solution",Spectrum Chem,Spectrum Chem,,2021-11-15,1,Liter,1
+LPI-Remdesivir,R,2020-11-16,HY104,HYDROCHLORIC  Acid (HCL) NF,Spectrum Chem,Spectrum Chem,,2021-02-15,500,mL,0
+LPI-Remdesivir,R,2020-11-16,SR40377,PEG 400-LQ-(MH),Croda,Croda,,2022-10-16,2766.81,Gram,2616.81
+LPI-Remdesivir,R,2020-11-16,SR40836,PROPYLENE  GLYCOL -LQ-(MH),Croda,Croda,,2021-11-11,5995.174,Gram,5945.174
+LPI-Remdesivir,R,2020-10-30,A45,Remdesivir,Zenji Research Lab,Zenji Research Lab,,2021-09-15,92,Gram,32.42
+LPI-YF,R,,JT8995-1,EDTA,J. T. Baker,Avantor,,2024-04-10,500,Gram,500
+LPI-YF,R,,JT3627-1,Sodium Chloride,J. T. Baker,J.T. Baker,,2024-11-05,500,Gram,500
+SRP,R,2021-01-18,414577,"Klucel ELF Pharm Drum ""Hydroxyporopylcellulose""",Ashland Specialty Ingredients,Ashland Speciality Ingredients,,2023-01-11,45.36,Kg,-0.0027000000000043656
+SRP,R,2021-01-13,106290.1,SODIUM   BENZOATE,EMD Millipore,EMD Millipore,,2023-12-15,1000,Gram,973.748
+SRP,R,2020-10-02,60410/API-01442,SRP-3D (Diethylamide),Olon Ricera BioScience,Olon Ricera Bioscience,,2025-10-02,500,Gram,499
+SRP,R,2021-01-28,60410,SRP-3D (Diethylamide),Olon Ricera BioScience,Olon Ricera Bioscience,RM-28012021-0001,2026-01-28,2001,Gram,231.14330000000018
+SRP,R,,A14450,"Ammonium Acetate, Optima LC/MS",Fisher Scientific ,Fisher Scientific,,2025-05-31,50,Gram,50
+SRP,R,2021-01-15,WIR-USP-1 X 6,"WATER, WFI USP Sterile",Intermountain,Intermountain,,2023-11-23,6,Liter,0
+SRP,R,2021-02-16,VCD020S18,"VIAL, Clear Glass 20mL, 30 x 55 x 1.3 mm",Adelphi,Adelphi,RM-16022021-0002,2026-02-16,1001,PCS,0
+SRP,R,2020-12-28,4.86505.1000,"WATER, WFI Quality",Omnipur,EMD Millipore Corp,,2023-04-29,5,Liter,0
+SRP,R,2021-01-13,02-540-0253,Biotainer 'CARBOY BOTTLES' 5L Nalgene Polycarbonate,Fisher Scientific ,Fisher Scientific,,2025-11-01,6,PCS,0
+SRP,R,2021-01-14,312189-0032,"Bottles with Closure, Nalgene Wide Mouth HDPE (1L)",Fisher Scientific ,Fisher Scientific,,2026-01-14,50,PCS,0
+SRP,R,2020-11-24,H93811,"Reapeter PUMP Fluid TransferTUBE Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-06-30,10,PCS,0
+SRP,R,2020-11-24,BXC11/H93811,"Reapeter PUMP Fluid TransferTUBE Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-08-31,10,PCS,0
+SRP,R,2021-02-23,76049-304,Tubing MFEX Silicone #17 25' Ft,VWR ,Cole-Parmer,RM-23022023-0003,2024-11-27,1,PCS,0
+SRP,R,2021-02-08,120710,"WEIGH  BOAT, White Sterile",Heathrow Scientific,CGN Gray Tech CO.,RM-08022021-0002,2023-10-31,200,PCS,0
+SRP,R,2021-02-05,443092,Zetzsch Zetabeads Plus 0.4,NETZSCH,NETZSCH,RM-05022021-0002,2026-02-05,4,Kg,0
+SRP,R,2021-02-16,CWPP18,"Screw CAP, 18mm White PP Unwadded",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-160202021-0004,2026-02-16,1000,PCS,0
+SRP,R,2021-02-16,SDIA18RtS,"Stopper, 18mm Plug Wine Red",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-16022021-0003,2021-11-03,2252,PCS,0
+SRP,R,2021-02-25,HV-96410-17,TUBING Mflex Silicone #17 25ft,Cole Palmer,Cole Palmer,RM-25022021-0001,2025-01-24,1,PCS,0
+SRP,R,2021-01-13,1.06290.1000,SODIUM   BENZOATE,EMD Millipore,EMD Millipore,,2021-07-31,1000,Gram,-0.0019999999999527063
+SRP,R,2021-02-23,EW-96440-24,"TUBING, MFlex Silicone #24, 25 Feet",Cole Palmer,Cole Palmer,RM-23022021-0002,2026-01-12,1,PCS,0
+SRP,R,2021-01-28,0743678,Microcrystalline (MCC),DFE pharma,DFE Pharma,,2022-05-31,25000,Gram,0
+SRP,R,2021-02-09,WPW-USP-1X6,"WATER, WFI USP Sterile",Spectrum Chem,Intermountain,RM-09022021-0001,2023-12-15,24,Liter,0
+SRP,R,2020-12-18,SDIA18RTS,"STOPPER Plug, 18mm Red Wine",Adelphi Healthcare,West Pharma,,2025-12-18,1149,PCS,0
+LPI-GM,R,2022-05-19,KA2DFLP2S,Filter 0.2 um Fluorodyne II,Pall Corp,,RM-19052022-0001,2025-05-31,6,PCS,6
+TAC,R,2021-04-14,2104-0001PK,"BOTTLES 30 mL, Nalgene WM HDPE",Thermo Fisher,Thermo Scientific,RM-14042021-0002,2026-04-14,12,PCS,1
+TAC,R,2021-04-14,2104-0032PK,"BOTTLES 1000mL,Nalgene WM HDPE",Thermo Fisher,Thermo Scientific,RM-14042021-0001,2026-04-14,6,PCS,1
+TAC,R,2020-05-31,(240)50347977,KOLLIDON VA 64,BASF,BASF,,2023-04-30,500,Gram,0.004619999999988522
+TAC,Q,2021-04-09,1-003942-1MI,"LYSINE SALT (R), QC8222-API, Micronized",Regis Tech,Regis Tech,RM-09042021-0002,2022-03-31,120.08,Gram,-1.0000000003174137e-05
+TAC,R,2021-03-29,PO120,POLYETHYLENE Glycol 1500,Spectrum Chem,Spectrum,RM-29032021-0001,2022-06-21,500,Gram,-0.0017700000000218097
+TAC,R,2021-03-31,WPW-USP-1X6,"WATER, Purified USP  Sterile Grade ",Spectrum Chem,Intermountain,RM-31032021-0001,2023-12-15,6,Liter,0
+TAC,R,2021-04-05,04-355-721,ETHANOL (Ethyl Alcohol) 200 Proof,Fisher Scientific,Decon Labs,RM-05042021-0003,2024-03-31,4,GAL,0
+TAC,R,2021-04-09,780518880/34851,ACETONITRILE,Sigma Aldrich,Sigma Aldrich,RM-09042021-0001,2024-01-31,4,GAL,0
+TAC,R,2021-04-13,292 202 FKR,KOLLIDON CL,IMCD US LLC,BASF Corp,RM-13042021-0001,2023-08-30,40000,Gram,0.002109999993990641
+TAC,R,2021-04-19,SLGNX13TL,"FILTER Syringe, 0.2micron, 13mm NS",EMD Millipore,EMD Millipore,RM-19042021-0001,2026-04-19,100,PCS,0
+TAC,R,2021-05-17,14-375-257,"SPOON, Sterile Disposble",Fisher Scientific,Fisher Scientific,RM-17052021-0003,2026-05-17,200,PCS,0
+TAC,R,2021-05-19,WPW-USP-1X6,"WATER, Purified USP  Sterile Grade ",Spectrum Chem,Intermountain,RM-19052021-0001,2024-04-06,6,Liter,0
+TAC,R,2020-12-16,771010008,"VIALS, RTF 2R 75101 INVIR 4.0 UB6",Gerresheimer Bunde,Gerresheimer Bunde,,2025-12-16,2052,Vials,2052
+TAC,R,,19700360,"STOPPER, 13mm Serum NovaPure",West Pharma,West Pharma,,2022-05-31,5000,PCS,0
+TAC,R,,14-245-98/3006,"SPATULA, V Scoop",Fisher Scientific ,Fisher Scientific,RM-12022021-001,2023-10-05,95,PCS,90
+TAC,R,2021-01-18,414577,"Klucel ELF Pharm Drum ""Hydroxyporopylcellulose""",Ashland Specialty Ingredients,Ashland Speciality Ingredients,,2023-01-11,44.7,Kg,44.6989
+LPI-GM,R,2021-05-21,KA2DFLP2S,"Filter, 0.2um Fluorodyne II",Pall Corp,Pall Corp,RM-21052021-0001,2024-03-31,6,EA,0
+LPI-GM,R,2021-06-02,S2GPU10RE,"SteriCup Quick Release , 0.22-um 1000mL",SigmaAldrich,,RM-02062021-0001,2023-12-31,12,PCS,1
+LPI-GM,R,2021-06-03,566-0010,"Filter Unit, 0.1um, 75mm 500mL Rapid Flow",Thermo Fisher,,RM-02062021-0005,2023-03-09,12,PCS,5
+CPL,R,2021-06-04,,CPL-01  Instruction Leaflet,The Printer Shoppe,,RM-04062021-0001,2026-06-04,52,EA,2
+LPI-GM,R,2020-11-30,FBMB250,"PETG Sterile Media Bottle, 250mL, FB",Thermo Scientific,,,2025-05-10,24,PCS,0
+CPL,R,2021-06-03,"WePrint1""x2""","Labels 1""x2""",Avery,,RM-03062021-0002,2026-06-03,336,EA,184
+CPL,R,2021-06-03,"WePrint2""x3""","Labels 2""x3""",Avery,,RM-03062021-0003,2026-06-03,96,EA,44
+CPL,R,2021-06-03,SKU:AVR023,"Security Seal, Holographic Tamper Evident Stickers",Avery/AVR Electronics,,RM-03062021-0004,2026-06-03,350,EA,300
+CPL,R,2021-06-21,S-16478,"Shipping Kit, 10.5 X 8.25 X 9.5""",Uline,,RM-21062021-0001,2026-06-21,20,EA,20
+CPL,R,2021-06-03,WVB10x10-5,"Vialbox with Divider, white cardboard",ZICLS,,RM-03062021-001,2026-06-03,99,EA,25
+LPI-GM,R,2021-02-03,96-2670,"Dressing Forceps, 5 & 1/2, Sterile",VWR International,Sklar Corp,RM-01022021-0001,2023-07-28,50,PCS,35
+LPI-GM,R,2021-06-11,91-200-45,"Collection Container Bag, 10 Liter EVA",Mediatech,Corning,RM-11062021-0001,2024-02-29,8,PCS,0
+SRP,R,2021-06-14,CWPP18,"Screw CAP, 18mm White PP Unwadded",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-14062021-0002,2026-06-14,1000,PCS,0
+LPI-GM,R,2021-06-16,P34,TSA/LT Contact Plates 13ml ,VWR,Hardy Diagnostics,RM-16062021-0002,2021-08-30,400,PCS,0
+LPI-GM,R,2021-06-16,T100A,"TSA Settling Plates, 24mL",Dynatec Lab,Dynatec Lab,RM-16062021-0001,2022-01-09,30,PCS,30
+SRP,R,2021-06-15,SA48-1,"Hydrocholric Acid, 1.0 Normal",Fisher Scientific,,RM-15062021-0001,2023-02-28,1000,mL,0
+SRP,R,2021-06-14,1.08421.1000,Titriplex III,EMD Millipore,,RM-14062021-0001,2025-09-30,1000,Gram,0
+HDT,R,2021-06-23,96105-09,"TUBING PHARMA-50 3/8 x 5/8, 50ft",Cole Palmer,,RM-23062021-0002,2026-06-23,50,FT,0
+HDT,R,2021-06-24,31311-62,"Fittings/Coupling PC 3/8""",Cole Palmer,,RM-23062021-0001,2026-06-23,15,PCS,0
+LPI-GM,R,2021-06-02,WFI-USP-20L,"WFI, 20Liter USP Grade",Fisher Scientific,Intermountain,RM-02062021-0004,2024-05-04,40,Liter,40
+CPL,R,2021-06-28,PHT015,"PharmaTherm 15P, CRT 12-25",,,RM-28062021-0002,2026-06-28,11,PCS,0
+CPL,R,2021-06-29,PHT015,"PharmaTherm 15P, CRT 12-25","DGP Intelsius, LLC",,RM-29062021-0001,2026-10-29,1,PCS,0
+CPL,R,2021-06-11,CPL-BPR-001 (EX00003),"CPL-01, 20mg/mL (10mL/vial)",,,,,50,Boxes,9
+DAV,R,2021-04-22,EW-96440-24,"Tubing Mflex Silicone, #24, 25ft",Cole-Parmer,Cole-Parmer,RM-12022021-0002,2026-01-12,2,PCS,2
+DAV,R,2021-04-22,EW-96105-09,"TUBING PHARMA-50 3/8 x 5/8, 50ft",Cole-Parmer,Dupont,RM-22042021-0001,2026-01-18,200,FT,120
+DAV,R,2020-10-19,S-124-2-MC,"SUCROSE, NF, EP, JP, ChP High Purity",Pfanstiehl,Pfanstiehl,,2025-06-30,1,Kg,1
+TAC,R,2021-06-28,PO120-2.5kg,"POLYETHYLENE Glycol, 2.5kg",Spectrum Chem,Spectrum,RM-28062021-0001,2022-06-21,2500,Gram,0
+SRP,R,2021-12-18,CWPP18,"Screw CAP, 18mm White PP Unwadded",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,,2025-12-18,500,PCS,0
+SRP,R,2021-02-16,VCD010,"VIAL, Tubular Glass 10ml, 18mm Screw Neck",Adelphi,Adelphi,RM-16022021-0001,2026-02-16,1120,PCS,0
+TAC,R,2021-06-07,04-355-721/2701GPT,ETHANOL (Ethyl Alcohol) 200 Proof,Fisher Scientific,Decon Labs,RM-07072021-0001,2024-03-31,12,GAL,0
+TAC,R,2021-07-07,B6410-12EA,"BOTTLES, 175mL Nalgene Square Wide Mouth",SigmaAldrich,Thermo Scientific,RM-07072021-0002,2026-07-07,360,PCS,360
+TAC,R,2021-07-01,B6410-12EA,"BOTTLES, 175mL Nalgene Square Wide Mouth",SigmaAldrich,Thermo Scientific,RM-01072021-0001,2026-07-01,504,PCS,257
+DAV,R,2021-07-12,09 740 46,"FILTER Unit, 1000ml Nalgene",Fisher Scientific,Fisher Scientific,RM-12072021-0001,2026-04-12,12,PCS,0
+LPI-GM,R,2021-07-16,WFI-USP-1x6,"WFI, USP Sterile Grade",Intermountain,Intermountain ,RM-16072021-0001,2024-06-02,3,Liter,1
+SRP,R,2021-07-16,WFI-USP-1x6,"WATER, WFI USP Sterile",Intermountain,Intermountain ,RM-16072021-0001,2024-06-02,3,Liter,0
+TAC,R,2021-07-20,2104-0048 (10-346-9),"BOTTLES 1500mL, Nalgene WM HDPE",Thermo Fisher,Thermo Scientific,RM-20072021-0001,2026-06-20,24,PCS,10
+TAC,R,2021-07-21,2104-0001,"BOTTLES 30mL, Nalgene WM HDPE",Thermo Fisher,Thermo Scientific,RM-21072021-0001,2026-07-21,12,PCS,12
+DAV,R,2020-07-17,97281-47-5 (CAS#),PHOSPHOLIPON  90G,"Lipoid, LLC","Lipoid, LLC",,2022-05-31,9.79,Kg,0
+TAC,R,2021-07-16,193013 GAR,KOLLIDON VA 64,IMCD US LLC,BASF,RM-16072021-0002,2024-08-31,35000,Grams,31792.12
+TAC,R,2021-07-27,G60CS000435,CAPSUGEL Coni-Snap Empty Capsules (70K) 00CS,Capsugel Manuf LLC,Lonza,RM-2702021-0001,2026-03-17,140000,PCS,132140
+TAC,R,2021-07-27,GOHCS001209,CAPSUGEL Coni-Snap Empty Capsules (100K) 0CS,Capsugel Manuf LLC,Lonza,RM-27072021-0002,2026-06-25,100000,PCS,0
+LPI-GM,R,2021-08-02,S-395,"SODIUM HYDROXIDE, 10.0 N AS",Spectrum,Spectrum,RM-02082021-0001,2021-10-31,1000,mL,759.8
+CPL,R,2021-08-03,LA8743,Panel Tacks Label,CCL Clinical Systems,,RM-03082021-0001,2026-08-02,1000,PCS,1000
+CPL,R,2021-08-03,G-DAV21-002,Vial Label,CCL Clinical Systems,,RM-03082021-0002,2026-08-03,1000,PCS,999
+LPI-GM,R,2021-06-09,B8200-500mL,Benzyl Alcohol,Spectrum,Spectrum,RM-09062021-0001,2021-10-19,500,mL,139.89999999999998
+CPL,R,2021-08-04,M-5352,Box Label DT2216,MACO,,RM-04082021-0001,2026-08-04,20,PCS,0
+TAC,R,2021-08-16,2123-0010,"BOTTLES Large Square W/M HDPE; 1 GAL, 4 L",Thermo Fisher,Thermo Scientific,RM-16082021-0001,2026-08-16,12,PCS,0
+LPI-GM,R,2020-08-12,010290,Glycocholic Acid,ICE,ICE,,2025-01-31,2,Kg,1.957487
+DAV,R,2021-08-16,DAV-BPR-005,DT-2216 Nanoemulsion Formulation (F30),,,,2021-08-16,382,EA,0
+SRP,R,2021-07-02,SRP-BPR-003,SRP-3D Oral Placbo Suspension,,,LPI2021040,,86,EA,0
+TAC,R,2021-08-13,2701GTP,ETHANOL (Ethyl Alcohol) 200 Proof,Decon Labs,Decon Labs,RM-13082021-0001,2024-08-31,12,GAL,10
+HDT,R,2021-08-30,SH30658.14,Bioprocess Container 500mL Labtainer w/ Line Sets,Thermo Scientific,Thermo Scientific,RM-30082021-0001,2024-07-31,20,PCS,18
+HDT,R,2021-09-13,12 200 115/133-32 CIPF,"BOTTLES, Clear Glass w/ Cap + PTFE Liner 1000 mL",Thermo Fisher,Thermo Fisher,RM-13092021-0001,2023-05-14,12,PCS,6
+TAC,R,2021-09-24,GOHCS001252,"CAPSUGEL Capsules ORANGE Opaque, Size 0",Capsugel-Lonza,Capsugel-Lonza,RM-24092021-0001,2026-08-13,100000,PCS,97346
+TAC,R,2021-09-24,GOHCS001249,"CAPSUGEL Capsules PURPLE Opaque, Size 0",Capsugel-Lonza,Capsugel-Lonza,RM-24092021-0002,2026-03-15,100000,PCS,96845
+RLS,R,2021-10-01,EW-96410-15,Tubing MFLEX Silicone #15 25',Cole-Palmer,,RM-01102021-0001,2021-07-30,25,Ft,25
+RLS,R,2021-10-04,EW-96105-09,Tubing Pharma-50' (3/8 x 5/8 50'),Cole Palmer,,RM-04102021-0001,2026-04-16,50,Ft,50
+CPL,R,2021-10-04,7481,"Ropivacaine PG Depot (CPL-01) 2%, 20mg/mL (10mL/vial)",PCI Pharma,,,,64,mL,44
+CPL,R,2021-10-04,7481,"Ropivacaine PG Depot (CPL-01) 2%, 20mg/mL (10mL/vial)",PCI Pharma,,,,437,mL,1
+CPL,R,2021-10-04,8615 SAN,,PCI Pharma,,,,25,mL,25
+CPL,R,2021-10-04,7725 SAN,"Ropivacaine PG Depot (CPL-01) 0%, 0mg/mL (10mL/vial)",PCI Pharma,,,,172,mL,0
+RLS,R,2021-10-04,MPC2200CIT03 (CLS-91411-003),"Coupling Insert, 1/4"" Hose Barb, Non Valved",Chemglass Life Sciences,,RM-04102021-0002,2024-04-09,50,PCS,50
+RLS,R,2021-10-13,1S03-E4WR (19-415-117),"One Solution ST, WFI",Fisher Scientific,Steris,RM-13102021-0001,2024-06-01,2,GAL,6
+RLS,R,2021-10-07,T-104-4,"α,α-Trehalose Dihydrate",Pfanstiehl,,RM-07102021-0001,2024-07-31,1000,Grams,500
+RLS,R,2021-10-06,M1441,Methionine,Spectrum,Spectrum ,RM-06102021-0001,2024-10-26,,Gram,78
+RLS,R,2021-10-15,WFI-USP-1X6,"WFI, USP Sterile Grade, 1X6",Intermountain,Avantor,RM-15102021-0001,2024-08-18,6,Liter,5
+TAC,R,2021-10-18,76423-176,"Vial, 40mL Clear Borosilicate",Avantor,VWR,RM-18102021-0002,2022-08-06,80,PCS,39
+TAC,R,2021-08-18,W1146,"Purified Water, USP",Spectrum,,RM-18102021-0001,2024-05-26,20,L,0
+LPI-GM,R,2021-10-21,GF2SPH0.2-33B2,"FILTER, 0.2um 500cm2 Stepbarb (1/4""-3/8""), Vent",Meissner,,RM-21102021-0001,2026-10-21,24,PCS,8
+TAC,R,2021-10-21,02 893 5C/2104-0004,"BOTTLE, Nalgene WM HDPE 125mL (4 oz)",Fisher Scientific,Thermo Fisher,RM-21102021-0002,,12,PCS,8
+TAC,R,2021-09-23,1-003942-1MI,"LYSINE SALT (R), QC8222-API, Micronized",Regis Tech,Regis Tech,RM-23092021-0001,2026-09-02,4325,Gram,3900.5
+CPL,R,2021-10-27,PHT015,"PharmaTherm 15P, CRT 12-25","DGP Intelsius, LLC",,RM-27102021-0001,2026-10-27,12,PCS,0
+TAC,R,2021-10-28,2114-0002,"BOTTLE 60mL, Nalgene, WM HDPE",Fisher Scientific,,RM-28102021-0001,2026-10-28,12,PCS,9
+TAC,R,2021-10-25,16179538,"Microcrystalline Cellulose (MCC), Phamacel112 Bag107",DFE Pharma,Univar Solutions,RM-25102021-0001,2025-02-28,50,Kg,48.08276
+LPI-GM,R,2021-10-29,09-761-140/431175,"BOTTLE, 150mL STR 24/cs",Fisher Scientific,Corning,RM-29102021-0001,2024-04-06,24,PCS,0
+TAC,R,2021-11-03,120710,"Weigh Boat, STD MED White",Heathrow Scientific,,RM-03112021-0003,2024-04-30,200,PCS,0
+TAC,R,2021-11-04,048841AE,Test Sieve #10,Fisherbrand,Fisher Scientific,RM-04112021-0001,2026-11-04,1,PCS,0
+TAC,R,2021-11-04,048841AK,Test Sieve #20,Fisherbrand,Fisher Scientific,RM-04112021-0002,2026-11-04,1,PCS,0
+STA,R,2021-12-06,5445307G8-00-A,"MIDICAPS, Sterile Sartopore 2XLG 0.8 to 0.2um",Sartorius,Sarorius,RM-06122021-0003,2024-10-31,8,PCS,4
+STA ,R,2021-12-07,67000321/1551293,STERIVIALS 20mm,Prince,Prince,RM-07122021-0002,2023-10-06,3960,PCS,1188
+STA ,R,2021-12-07,54202228,"SEALS, 20mm Flip off ",Prince,Prince,RM-07122021-0001,2023-04-30,4400,PCS,1000
+TAC,R,2021-12-06,2125-2000,"BOTTLE, HDPE 2 liter",Thermo Scientific,Thermo Scientific,RM-06122021-0002,2026-12-06,2,PCS,0
+LPI-GM,R,2021-12-13,B8200,Benzyl Alcohol,Spectrum,Spectrum,RM-13122021-0002,2022-06-04,500,mL,0
+STA,R,2021-12-13,EW-96105-09,"Tubing Pharma-50, 50 3/ x 5/8, 50'",Cole Palmer,Cole Palmer,RM-13122021-0001,2026-04-16,50,FT,32.510000000000005
+TAC,R,2021-12-10,1334609,"Bottle,HDPE 4L",Fisher Scientific,Thermo Scientific,RM-10122021-0001,2022-12-10,1,PCS,0
+STA,R,2021-12-14,19700361,"STOPPER, 20mm NovaPure",West Pharma,West Pharma,RM-14122021-0001,2023-06-30,4500,PCS,2000
+TAC,R,2021-12-16,10-346-9/2104-0048,"BOTTLE, WXM HDPE 1.5L (1500mL)",Fisher Scientific,Thermo Fisher,RM-13122021-0003,2026-12-13,24,PCS,24
+TAC,R,2021-12-14,02-923-4,"BOTTLE, HDPE 4L",Fisher Scientific,Thermo Fisher,RM-10122021-0001,2026-12-10,1,PCS,0
+STA,R,2021-12-22,67000321/1551293,STERIVIALS 20mm,Prince,Prince,RM-22122021-0001,2023-10-06,264,PCS,0
+SRP,R,2021-12-22,SRP-BPR-002,"SRP-3D PACKAGED, ACTIVE 100mg/mL",South Rampart Pharma LLC,,LPI2021031,,11,Boxes,0
+SRP,R,2021-12-22,SRP-BPR-003,"SRP-3D PACKAGED, PLACEBO",South Rampart Pharma LLC,,LPI2021040,,4,Boxes,0
+STA,R,2021-12-22,W015258,"STOPPER, 20mm",Prince,Prince,RM-22122021-0002,2023-10-29,4400,PCS,2400
+RLS,R,2021-10-19,3700-16,"Hydrochloric Acid, 1.0 N (HCL)",Fisher Scientific,Ricca,RM-19102021-0003,2023-05-31,500,mL,500
+RLS,R,2021-10-22,3740-16,"Hydrochloric Acid, 5.0 N (HCL)",,,RM-22102021-0001,2023-08-30,500,mL,350
+RLS,R,2021-10-20,7450 ,Sodium Hydroxide 1.0 N (NaOH),Fisher Scientific ,Ricca,RM-20102021-0001,2023-04-30,500,mL,500
+RLS,R,2021-10-19,7470-32,Sodium Hydroxide 10.0 N (NaOH),Fisher Scientific ,Ricca,RM-19102021-0002,2023-03-31,1,L,1
+SRP,R,2021-12-13,SRP-BPR-002,Active Label Box,,,LPI2021031,,56,EA,0
+SRP,R,2021-12-13,SRP-BPR-002,Active Label Vial,,,LPI2021031,,240,EA,0
+SRP,R,2021-12-13,SRP-BPR-003,Placebo Label Box,,,LPI2021040,,14,EA,0
+SRP,R,2021-12-13,SRP-BPR-003,Placebo Label Vial,,,LPI2021040,,90,EA,0
+SRP,R,2021-04-22,SRP-BPR-002,"SRP-3D Oral Active Suspension, 100mg/mL",,,LPI2021031,,226,EA,0
+STA,R,2021-12-09,BHL2B1324X,0.9% SODIUM CHLORIDE Injection USP 1000mL,BAXTER,Medline,RM-09122021-0001,2023-04-30,,PCS,42
+LPI-GM,R,2022-01-18,WFI-USP-20L,"WFI, USP STERILE GRADE 20L",Intermountain,Intermountain,RM-18012022-0001,2024-12-23,20,Liter,8
+LPI-GM,R,2022-01-12,T100A,"TSA Settling Plates, 24mL",Dynatec Lab,Dynatec Lab,RM-12012022-0001,2022-08-20,40,PCS,0
+TAC,R,2022-01-20,5263,TACH101 Bottle Label 5mg,,,,,60,PCS,0
+TAC,R,2022-01-20,5263,TACH101 Box Label 5mg,,,,,20,PCS,0
+TAC,R,2022-01-21,5263,TACH101 Bottle Label 25mg,,,,,110,PCS,0
+TAC,R,2022-01-21,5263,TACH101 Box Label 25mg,,,,,30,PCS,0
+TAC,R,2022-01-20,TAC-BPR-004,QC8222 Lysine Salt Oral Capsule 5mg,,,LPI2021052,2022-12-17,2268,PCS,1516
+TAC,R,2022-01-21,TAC-BPR-005,QC8222 Lysine Salt Oral Capsule 25mg,,,LPI2021053,2023-01-03,3070,PCS,1495
+LPI-GM,R,2022-01-28,1463790006,Tryptic Soy B,Millipore Sigma,Millipore Sigma,RM-28012022-0001,2022-08-18,12,Liter,0
+LPI-Remdesivir,R,2022-01-28,(CAS) 475-31-0,Glycocholic Acid,ICE S.p.A.,ICE S.p.A,RM-27012022-0001,2025-04-01,1,Kg,0
+LPI-GM,R,2022-01-31,54202850,20mm Flip off Seals,West Pharma,West Pharma,RM-31012022-0002,2022-12-31,2000,PCS,0
+LPI-GM,R,2022-01-31,19700305,20mm Serum NovaPure Stoppers,West Pharma,West Pharma,RM-31012022-0001,2023-09-30,2000,PCS,0
+LPI-GM,R,2021-02-16,0553859B/430791," CentrifugeTUBE , 15mL Sterile",Fisher Scientific,Fisher Scientific,RM-16022021-0005,2025-11-18,300,PCS,150
+LPI-GM,R,2021-02-01,96-2670,"Dressing Forceps, 5 & 1/2, Sterile",Fisher Scientific ,Sklar Corp,RM-01022021-0001,2023-07-28,35,PCS,10
+LPI-GM,R,2021-02-23,1482618B/305198,"NEEDLE, Sterile 16G x 1  1/2""",Fisher Scientific ,BD,RM-23022021-0004,2025-07-31,100,PCS,289
+LPI-GM,R,2021-02-23,844181/305181,"NEEDLE, Hypo 18G x 1"" Blunt Fill",McKesson Medical,BD,RM-23022021-0001,2025-11-30,92,PCS,66
+LPI-GM,R,2020-12-29,H93811," REPEATER  PUMP Tube Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-07-31,8,PCS,0
+LPI-GM,R,2020-12-16,59221120,"SEAL,"" Flip Off"" 5417  FOCCS 13mm ",West Pharma,West Pharma,,2022-06-22,1000,PCS,0
+LPI-GM,R,2020-12-18,BHL2B1324XH,SODIUM CHLORIDE (NACL)Solution 0.9%,Medline,Medline,,2022-04-30,7000,mL,0
+LPI-GM,R,2021-02-12,14-245-98/3006,"SPATULA, V Scoop",Fisher Scientific ,Fisher Scientific,RM-12022021-0001,2023-10-05,84,PCS,82
+LPI-GM,R,2021-02-18,1222X31/36902-0010,"SCOOP, White 60ml",Thomas Scientific,,RM-18022021-0001,2026-02-18,10,PCS,1
+LPI-GM,R,2020-12-15,19700360,"STOPPER, 13mm Serum NovaPure",West Pharma,West Pharma,,2022-05-31,3000,PCS,0
+LPI-GM,R,2021-01-04,68000397,"VIALS, EZ-Fill VB 3mL ISO 8362-1-1C-2R Tray",West Pharma,West Pharma,,2026-01-04,4560,Vials,4332
+LPI-GM,R,2020-12-16,771010008,"VIALS, RTF 2R 75101 INVIR 4.0 UB6",Gerresheimer Bunde,Gerresheimer Bunde,,2025-12-16,7296,Vials,4332
+LPI-GM,R,2022-02-10,19700002,"STOPPER, 13mm Steristoppers",Prince,Prince,RM-10022022-0001,2023-08-11,1995,PCS,0
+LPI-GM,R,2022-02-10,54131372,"SEAL, 13mm Stericlosures",Prince,Prince,RM-10022022-0002,2023-07-28,1995,PCS,570
+HDT,R,2022-02-18,13-678-27E,"Pipet, Serological 5mL",Fisher Scienific,Fisher Scientific,RM-18022022-0001,2027-02-18,500,PCS,462
+HDT,R,2022-02-08,,Iron Oxide (Fe3O4) coated w/ oleic acid,Precision MRX,"Imagion BioSystem, Inc.",RM-08022022-0001,2022-08-08,10,mL,0
+HDT,R,2021-12-16,593510,Lipoid Dotap Cl,Lipoid,Lipod,RM-16122021-0001,,100,Gram,42.14999999999999
+HDT,R,2021-12-16,593510,Lipoid Dotap Cl,Lipoid,Lipod,RM-16122021-0001,,,Gram, 
+LPI-GM,R,2021-02-24,305198,"NEEDLE, Sterile 16G x 1  1/2""",McKesson Medical,BD,RM-24022021-0001,2023-05-31,192,PCS,186
+LPI-GM,R,2022-03-11,2701,ETHANOL (Ethyl Alcohol) 200 Proof,Decon Labs,Decon Labs,RM-11032022-0001,2025-03-31,4,GAL,0
+LPI-GM,R,2022-03-16,SH30712.01,"5L Labtainer w/ Quick Connect, Standard",Thermo Fisher,Thermo Fisher,RM-16032022-0001,2024-12-31,5,PCS,1
+DAV,R,2022-03-17,SH30712.01,BioProcess Container 5L Labtainer,Thermo Fisher,Thermo Fisher,RM-16032022-0001,2024-12-31,2,PCS,0
+HDT,R,2022-03-04,111-02-4,Squalene - Squapure 25,Sophium,Sophium,RM-04032022-0001,2022-09-02,25,Kg,2.999999999886427e-05
+STA,R,2022-03-29,31311-62,"Fitting/Coupling PC 3/8""",Cole Palmer,,RM-29032022-0001,2025-02-22,20,PCS,5
+HDT,R,2022-03-22,8.17061.1000,TWEEN 80  (Polysorbate),Millipore Sigma,Sigma Aldrich,RM-22032022-0001,2023-08-31,1000,mL,562.5
+STA,R,2022-04-14,GT5956/82021-116,Cryogenic Box 31N,VWR,VWR,RM-14042022-0001,2027-04-14,36,PCS,96
+STA,R,2022-04-14,16D/82021-118,Divider 16-Cell,VWR,VWR,RM-14042022-0002,2027-04-14,96,PCS,96
+HDT,R,2022-04-26,45505-08,LUER w/ Locknut M 3/16 NYL,Cole-Parmer,Dupont,RM-26042022-0002,2027-04-26,25,PCS,23
+HDT,R,2022-04-26,96105-02,Tubing Pharma 50 3/16 x 3/8,Cole-Parmer,,RM-26042022-0001,2026-08-26,50,feet,31.5
+LPI-GM,R,2022-05-02,228154,PHOSPHOLIPON  90G,Lipoid,,RM-02052022-0001,2023-07-31,,Kg,20
+DAV,R,2022-05-06,KA1NFP2S,KLEENPAK FILTER 0.2um,Pall Corp,Pall Corp,RM-06052022-0001,2025-02-28,6,PCS,3
+DAV,R,2022-04-28,96-2523,"SCISSORS,  STR B/B 5.5"" Sterile",Sklar,Sklar Corp,RM-28042022-0001,2024-03-01,25,PCS,10
+DAV,R,2022-04-28,96-2569,"FORCEPS, Dressing",Sklar,Sklar Corp,RM-28042022-0002,2024-10-18,25,PCS,22
+DAV,R,2022-05-18,SH30712.02,BioProcess Container 10L,Thermo Fisher,Thermo Fishr,RM-18052022-0001,2024-05-31,4,PCS,1
+LPI-GM,R,2022-02-25,,TSB 5 mL/20mm Media Fill,,,LPI2022060,,1824,Vials,0
+HDT,R,2022-05-18,120710,STD Weigh Boat Med White,Heathrow Scientific,,RM-1052022-0002,2024-10-31,200,PCS,200
+LPI-GM,R,2022-05-25,02-540-0253,Biotainer 'CARBOY BOTTLES' 5L Nalgene Polycarbonate,Fisher Scientific ,Fisher Scientific,,2025-11-01,3,PCS,1
+LPI-GM,R,2022-05-25,312189-0032,"Bottles with Closure, Nalgene Wide Mouth HDPE (1L)",Fisher Scientific ,Fisher Scientific,,2026-01-14,50,PCS,50
+LPI-GM,R,2022-05-25,SA48-1,"Hydrocholric Acid, 1.0 Normal",Fisher Scientific,,RM-15062021-0001,2023-02-28,998.5,mL,998.5
+LPI-GM,R,2022-05-25,414577,"Klucel ELF Pharm Drum ""Hydroxyporopylcellulose""",Ashland Specialty Ingredients,Ashland Speciality Ingredients,,2023-01-11,44.67,Kg,44.0353
+LPI-GM,R,2022-05-25,443092,Zetzsch Zetabeads Plus 0.4,NETZSCH,NETZSCH,RM-05022021-0002,2026-02-05,0.52,Kg,0.52
+LPI-GM,R,2022-05-25,120710,"WEIGH  BOAT, White Sterile",Heathrow Scientific,CGN Gray Tech CO.,RM-08022021-0002,2023-10-31,85,PCS,25
+LPI-GM,R,2022-05-25,4.86505.1000,"WATER, WFI Quality",Omnipur,EMD Millipore Corp,,2023-04-29,3,Liter,0
+LPI-GM,R,2022-05-25,WIR-USP-1 X 6,"WATER, WFI USP Sterile",Intermountain,Intermountain,,2023-11-23,1,Liter,1
+LPI-GM,R,2022-05-25,VCD020S18,"VIAL, Clear Glass 20mL, 30 x 55 x 1.3 mm",Adelphi,Adelphi,RM-16022021-0002,2026-02-16,637,PCS,637
+LPI-GM,R,2022-05-25,VCD010,"VIAL, Tubular Glass 10ml, 18mm Screw Neck",Adelphi,Adelphi,RM-16022021-0001,2026-02-16,1120,PCS,1120
+LPI-GM,R,2022-05-25,1.08421.1000,Titriplex III,EMD Millipore,,RM-14062021-0001,2025-09-30,993.53,Gram,993.53
+LPI-GM,R,2022-05-25,H93811," REPEATER  PUMP Tube Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-06-30,6,PCS,4
+LPI-GM,R,2022-05-25,H93811," REPEATER  PUMP Tube Sets, Sterile",Medline,Baxter Healthcare Corp.,,2023-08-31,10,PCS,5
+LPI-GM,R,2022-05-25,CWPP18,"Screw CAP, 18mm White PP Unwadded",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,,2025-12-18,500,PCS,500
+LPI-GM,R,2022-05-25,CWPP18,"Screw CAP, 18mm White PP Unwadded",Adelphi Healthcare Packaging,Adelphi Healthcare Packaging,RM-14062021-0002,2026-06-14,1000,PCS,1000
+DAV,R,2022-05-26,368202,PHOSPHOLIPON  90G,Lipoid,"Lipoid, LLC",RM-26052022-0001,2023-06-30,2000,Gram,2000
+DAV,R,2020-06-30,S-H2-2-MC-5KG,"SUCROSE, NF",Pfanstiehl,Pfanstiehl,,2025-04-01,4.48,Kg,4.48
+LPI-GM,R,2022-05-24,P34,TSA/LT Contact Plates 13ml ,VWR,Hardy Diagnostics,RM-24052022-0002,2022-08-11,400,PCS,0
+CPL,R,2022-06-02,CPL-BPR-001,CPL-01-202 20mg/mL (10mL/vial),,,CPL20004,,20,Boxes,10
+CPL,R,2022-06-02,64774,"AVERY 2"" X 3"" Carton Label",,,,,32,EA,11
+CPL,R,2022-06-02,70180,"AVERY 1"" X 2"" Carton Label",,,,,192,EA,0
+HDT,R,2022-05-16,1.00892,SUCROSE,Sigma Aldrich,Sigma Aldrich,RM-16052022-0001,2024-06-30,5000,Gram,4094.3
+LPI-GM,R,2022-06-10,430281,"BOTTLE, 250mL Sterile",Corning,Corning,RM-10062022-0001,2022-06-10,12,PCS,0
+BTS,Q,2022-03-14,D236/103097,Diethylene glycol dibenzonate,Porton,Porton,RM-14032022-0001,2022-07-06,101240,mL,100833
+DAV,R,2022-06-17,31201-23,"Fused Gasket Adapter 1.5""TC x 3/8""",MasterFlex,Cole Parmer,RM-17062022-0001,2027-05-24,10,PCS,10
+HDT,R,2022-06-15,150308WR,"WFI, ONE SOLUTION, 1 gallon",Steris,Steris,RM-1506022-0001,2025-03-01,4,Gal,0
+LPI-GM,R,2021-01-28,0743678,Microcrystalline (MCC),DFE pharma,DFE Pharma,,2022-05-31,24958,Gram,0
+CPL,R,2022-06-09,F000208178,"0.9% Sodium Chloride Injection USP, 10mL",Medline,Pfizer,RM-09062022-0001,2024-03-01,600,PCS,0
+CVA,R,2022-05-03,BDH8326,Chloroform w/ Amylene,VWR,BDH Chemicals,RM-03052022-0001,2025-03-05,4,Liter,2.2800000000000002
+CVA,R,2022-05-10,,Iron Oxide (Fe3O4) coated w/ oleic acid,Imagion Bibsystem Inc,,RM-10052022-0001,2022-11-10,4.8,Gram,3.8945
+CVA,R,2022-05-27,593510,Lipoid Dotap Cl w/ TOCOP,Lipoid GmbH,Lipoid GmbH,RM-27052022-0001,2027-05-27,1,Kg,0.86358
+CVA,R,2022-06-02,SDR2296,Span 60PW,CRODA,CRODA,RM-02062022-0002,2024-02-15,25,Kg,24.891160000000003
+CVA,R,2022-06-02,SDK1048,Tween 80 -LQ (CQ),CRODA,CRODA,RM-02062022-0001,2025-02-02,20,Kg,19.7224
+NEU,R,2022-05-23,MA130,"Magnesium Sterate, NF, EP, BP, JP",Spectrum,Spectrum,RM-23052022-0001,2023-10-21,500,Gram,478.22814
+HDT,R,2022-07-01,150308WR,"WFI, ONE SOLUTION, 1 gallon",Steris,Steris,RM-01072022-0001,2025-03-01,4,Gal,4
+CVA,R,2022-07-05,1.00243.1000,CITRIC Acid Monohydrate,EMD Millipore,EMD Millipore,RM-05072022-0001,2025-02-28,1,KG,0.97582
+HDT,R,2022-07-05,R9192000-205,"Water, USP Sterile",RICCA,RICCA,RM-05072022-0002,2023-06-30,40,Liter,40
+DAV,Q,2022-07-05,34860,Methanol,Sigma Aldrich,Sigma Aldrich,RM-05072022-0003,2027-02-28,16,Liter,16
+CVA,R,2022-07-08,SS255-1,SODIUM HYDROXIDE,Fisher Scientific ,Fisher Scientific,RM-08072022-0001,2023-11-30,1,Liter,0.8
+HDT,R,2025-03-29,4.86505,"WFI, Quality Water",EMD Millipore,EMD Millipore,RM-08072022-0002,2025-03-29,15,Liter,7
+LPI-GM,R,2022-07-07,1463790006,Tryptic Soy B,EMD Millipore,EMD Millipore,RM-07072022-0001,2023-05-11,18,Liter,18
+HDT,Q,2022-07-12,WFI-USP-20L,"WFI, Sterile Grade",Intermountain,Intermountain,RM-12072022-0001,2025-05-27,20,Liter,20
+CVA,R,2022-07-12,111-02-4 (CAS#),Squalene - Squapure 25,Ophim,Ophim,RM-12072022-0002,2023-03-02,25,KG,22.83941
+LPI-GM,R,2022-07-11,H93811," REPEATER  PUMP Tube Sets, Sterile",Baxter,Baxter,RM-11072022-0001,2025-02-28,4,PCS,4
+NEU,R,2022-07-13,BG-10,Microcrystalline (MCC),Asahi Kasei,,RM-13072022-0001,2024-07-28,10,KG,7.92032
+CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31,200,PCS,105
+LPI-GM,R,2022-07-20,P34,TSA/LT Contact Plates 13ml ,VWR,Hardy Diagnostics,RM-20072022-0001,2022-08-11,400,PCS,0
+CVA,R,2022-07-26,012-2000,"BOTTLE, Clear Glass 2L WM w/ Cap",Thermo Scioentific ,Thermo Fisher,RM-26072022-0001,2024-06-30,12,PCS,8
+CVA,R,2022-08-04,14-177-107,Pharma -50 Tubing,Fisher Scientific ,Fisher Scientific,RM-04082022-0001,2027-06-05,50,FT,38.4
+CVA,R,2022-08-09,EW-96105-09,TUBING Pharma-50,Cole-Parmer,Dupont,RM-09082022-0001,2026-06-26,50,FT,44.2
+DAV,R,2022-08-01,SH30712.01,BioProcess 5L Labtainer / Quick Connect,Thermo Scientific,Thermo Scientific,RM-19082022-0001,2025-04-30,10,PCS,10
+LPI-GM,R,2022-08-22,WPW-USP-1X6,"WATER, Purified USP  Sterile Grade ",Intermountain,Intermountain,RM-22082022-0001,2025-05-12,24,Liter,7
+LPI-GM,R,2022-08-22,05 719 739 ,"BOTTLE, 2L",Fisher Scientific,Fisher Scientific,RM-22082022-0002,2027-08-22,18,PCS,18
+LPI-GM,R,2022-08-30,P34,TSA/LT Contact Plates 13ml ,Hardy Diagnostics,Hardy Diagnostics,RM-30082022-0001,2022-11-20,400,PCS,0
+ELV,R,2022-09-09,NF2005,Gelatin Capsules Size 2 (White),"Qualicaps, Inc","QualiCaps, Inc",RM-09092022-0003,2024-09-30,23000,PCS,12375
+ELV,R,2022-09-09,NF5579,Gelatin Capsules Size 00 (Orange),"Qualicaps, Inc","QualiCaps, Inc",RM-09092022-0004,2024-06-30,23000,PCS,21782
+CPL,R,2022-08-31,PHT015,"PharmaTherm 15P, CRT 12-25","DGP Intelsius, LLC",,RM-31082022-0001,2027-08-31,7,PCS,7
+CPL,R,2022-09-15,NDC# 70069-0064-25,"Ropivacaine HCL Injection, USP 150mg/30mL (Naropin)",Somerset,,,2024-06-30,550,PCS,0
+CVA,R,2022-07-01,1S0308WR,"WFI, ONE SOLUTION, 1 gallon",Steris,Steris,RM-01072022-0001,2025-03-01,4,Gal,2
+CVA,R,2022-09-15,1367827F,"PIPET, Serological Disposable 10mL",Fisher Scientific,,RM-15092022-0001,2027-09-15,500,PCS,479
+CVA,R,2022-09-19,12686,"FILTER, Capsule Unit 0.2 um",Pall Corp,,RM-19092022-0001,2025-05-31,4,PCS,4
+CVA,R,2022-07-05,R9192000-205,"Water, USP Sterile",RICCA,,RM-05072022-0002,2023-06-30,40,Liter,40
+HDT,R,2022-09-19,19700360,"STOPPER, 13mm Novapure Serum ",West Pharma,West Pharma,RM-19092022-0002,2024-07-31,3000,PCS,3000
+HDT,R,2022-07-12,WFI-USP-20L,"WFI, Sterile Grade 20L",Intermountain,Intermountain,RM-12072022-0001,2025-05-27,20,Liter,20
+CVA,R,2022-09-28,R7450010-1A,"Sodium Hydroxide, 1.0 Normal",RICCA,,RM-2092022-0002,2024-09-30,1,Liter,0
+NEU,Q,2022-09-26,WFI-USP-1X6,"WFI, USP Sterile Grade",Cytiva,Hyclone,RM-26092022-0001,2025-09-01,12,PCS,12
+NEU,R,2022-08-26,05719740,"BOTTLE, Plastic WM 4L ",Fisher Scientific,Fisher Scientific,RM-26082022-0001,2027-08-26,16,PCS,12
+NEU,R,2022-09-09,NF5580,Gelatin Capsules Size 0 (Orange),Qualicaps Inc,,RM-09092022-0001,2024-06-30,11000,PCS,8269
+NEU,R,2022-08-25,53216545,Kollidon CL-F,BASF Corp.,,RM-25082022-0001,2024-08-31,30,Kg,28.864
+NEU,R,2022-08-23,,BA-1049 Adipate (API),Wilmington PharmaTech,,RM-23082022-0001,2023-02-28,430,Gram,185.7
+NEU,R,2022-08-29,2104-0001,"BOTTLE, Plastic WM HDPE 30mL",Thermo Fisher,Fisher Scientific,RM-29082022-0001,2027-08-29,288,PCS,0
+NEU,R,2022-08-22,05 719 739,"BOTTLE, HDPE Round, 2L",Fisherbrand,Fisherbrand,RM-22082022-0002,2027-08-22,18,PCS,6
+NEU,R,2022-09-09,NF 4403,Gelatin Capsules Size 00 (White),"Qualicaps, Inc",,RM-09092022-0002,2025-03-31,11000,PCS,7605
+ELV,R,2022-09-21,36103-B,"BOTTLE, 3oz (100mL) WM WHITE w/ Caps",Berlin Packaging,,RM-21092022-0001,,600,PCS,560
+ELV,R,2022-09-30,NF2005,Gelatin Capsules Size 2 (White),"Qualicaps, Inc","QualiCaps, Inc",RM-30092002-0001,2024-09-30,10000,PCS,10000
+HDT,R,2022-09-28,5922 1125,"SEALS, 13mm Flip-off 5417 FOCCS ",West Pharma,West Pharma,RM-28092022-0001,2024-03-03,2000,PCS,0
+ELV,R,2022-10-11,733317,Microcrystalline (MCC) Pharmacel 102,DFE Pharma,,RM-11102022-0001,2025-12-31,500,Grams,0
+CVA,R,2022-10-12,32211,Chloroform Periss (Trichloromethane),,,RM-12102022-0001,2023-06-30,2.5,Liter,0
+ELV,Q,2022-10-17,ENL-1925-100,ENL-1925-100 (Pyrimidine Derivatives_API),Pharmaron,,RM-17102022-0001,2023-09-10,2500,Gram,1983.6100000000001
+ELV,R,2022-10-13,0743679,Microcrystalline (MCC) Pharmacel 102,DFE Pharma,,RM-13102022-0001,2025-01-30,25000,Gram,23699.8312
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+ CVA,R,2022-07-18,120710,STD Weigh Boat Med White,Heathrow Scientific,Heathrow Scientific,RM-18072022-0001,2025-01-31, ,PCS, 
+LPI-GM,R,2022-06-10,430281,"BOTTLE, 250mL Sterile",Corning,Corning,RM-29092022-0001,2025-07-15,72,PCS,66
+NEU,R,2022-10-21,2104-0001,"BOTTLE, Plastic WM HDPE 30mL",Thermo Fisher,Fisher Scientific,RM-29082022-0001,2027-10-21,360,PCS,243
+VKT,Q,2022-10-26,203787-91-1 (CAS#),Salcaprozate Sodium,Ningbo Syntam Biotech Co Ltd.,,RM-26102022-0001,,10000,Gram,9901
+LPI-GM,R,2021-11-16,50045,Miglyol 812N,IOI Oleo Chemical,,RM-16112021-0001,2021-11-30,25,Kg,0
+VKT,Q,2022-10-31,110230JHRUS,Microcrystalline Cellulose Avicel PH101 NF (MCC),IMCD US LLC,,RM-31102022-0001,2026-03-12,1,KG,1
+VKT,Q,2022-10-31,P1416,Povidone K-90 USP,Spectrum,,RM-31102022-0002,2025-05-30,500,Gram,500
+EMI,R,2022-10-28,WFI-USP-20L,WFI Sterile Grade,Hyclone,,RM-28102022-0001,2025-09-08,20,Liter,20
+ELV,R,2022-11-02,05719740,"BOTTLE, WM HDPE 4L",Fisher Scientific,,RM-02112022-0001,2027-11-02,8,PCS,7
+LPI-GM,R,2022-11-02,P34,TSA/LT Contact Plates 13ml ,Hardy Diagnostics,Hardy Diagnostics,RM-02112022-0002,2023-01-24,800,PCS,800
+ELV,R,2022-11-07,0519739,"BOTTLES, WM HDPE 2L ",Fisher Scientific,,RM-07112022-0001,2027-11-07,24,PCS,17
+XVR,R,2022-11-09,P4338,Polyethylene Glycol Powder,Sigma Aldrich,Sigma Aldrich,RM-09112022-0001,2025-08-31,1000,Gram,1000
+XVR,R,2022-11-09,P7949,"Tween 20, Viscous Liquid",Sigma Aldrich,Sigma Aldrich,RM-09112022-0002,2025-10-31,1000,mL,1000
+VKT,Q,2022-11-08,203787-91-1,Salcaprozate Sodium,Ningbo Syntam Biotech Co Ltd.,,RM-08112022-0001,,10000,Gram,0
+ELV,R,2021-04-13,292 202 FKR,KOLLIDON CL,IMCD US LLC,BASF Corp,RM-13042021-0001,2023-08-30,39943.91,Gram,39900.09088
+VKT,R,2021-01-18,H93811/BXC11, Repeater PUMP Tube Sets Sterile,Mediline,Baxter Healthcare Corp.,,2023-08-31,7,PCS,4
+LPI-GM,R,2021-01-18,222-1130-B1I,"FORCEPS 130MM ""Blue"" Sterile",Amazon,Caplugs Evergreen,,2026-01-18,92,PCS,92
+LPI-GM,R,2021-11-03,120710,"WEIGH  BOAT, White Sterile",Heathrow Scientific,,RM-03112021-0003,2024-04-30,10,PCS,10
+LPI-GM,R,2021-03-23,SH30712.05,"BioProcess Container, 2L Labtainer",Fisher Scienific,Thermo Fisher,RM-23032021-0001,2024-03-31,2,Bags,2
+HDT,Q,2022-10-03,1.3003.1000,CITRIC Acid Monohydrate,Sigma Aldrich,Sigma Aldrich,RM-0102022-0001,2024-12-31,1000,Gram,1000
+XVR,R,2022-11-14,S1395,Sodium Phosphate Monobasic Crystal,Spectrum,Spectrum,RM-14112022-0002,2027-11-14,125,Grams,125
+ELV,R,2021-05-17,14-375-257,"SPOON, Sterile Disposble",Fisher Scientific,Fisher Scientific,RM-17052021-0003,2026-05-17,14,PCS,4
+XVR,Q,2022-11-14,96410-15,"TUBING, MFlex #15 25'",Avantor,,RM-14112022-0003,2026-09-16,25,Ft,25
+VKT,R,2022-11-09,5231307H5-00-13,"Capsule, Sterile Sartobran 300, 0.45 + 0.2um",Sartorius,,RM-09112022-0003,2023-11-30,3,PCS,3
+LPI-GM,R,2022-11-14,5922-1120,"SEALS, 13mm Flip-Off CCS",West Pharma,West Pharma,RM-14112022-0001,2024-08-14,3000,PCS,3000
+EMI,R,2022-10-28,WFI-USP-20L,WFI Sterile Grade 20L,Hyclone,,RM-28102022-0001,2025-09-08,20,Liter,0
+LPI-GM,R,2022-10-28,WFI-USP-20L,WFI Sterile Grade 20L,Hyclone,,RM-28102022-0001,2025-09-08,20,Liter,20
+LPI-GM,R,2021-01-21,120710,"WEIGH  BOAT, White Sterile",Heathrow Scientific,Heathrow Scientific,,2023-10-31,150,PCS,150
+VKT,R,2022-11-16,WFI-USP-1X6,"WFI, USP Sterile Grade",Hyclone,,RM-16112022-0001,2025-09-14,36,Liter,27
+VKT,R,2022-11-18,DYND50320,"BOWLS, 32oz",Medline,Medline,RM-18112022-0001,2027-11-18,50,PCS,46
+VKT,Q,2022-11-22,30-1352-658,VK 2735 API,PSS,PSS,RM-22112022-0002,2023-07-13,147.5,Grams,147.5
+HDT,R,2022-12-12,HDT-BPR-004,HDT Diluent,Latitude,Latitude,,,1799,PCS,0
+VKT,R,2022-11-22,WFI-USP-1X6,"WFI, USP Sterile Grade",Cytiva,Hyclone,RM-22112022-0001,2025-09-21,24,Liter,24
+VKT,R,2022-11-21,SH30712.02,BioProcess Labtainer 10 L,Thermo Scientific,Thermo Scientific,RM-21112022-0001,2025-09-30,15,PCS,15
+LPI-GM,R,2022-11-21,SH30712.02,BioProcess Labtainer 10 L,Thermo Scientific,Thermo Scientific,RM-21112022-0002,2025-09-30,5,PCS,5
+VKT,R,2022-11-21,H93811,Repeater PUMP Tube Sets Sterile,CIA,Baxter Healthcare Corp.,RM-21112022-0003,2025-05-31,10,PCS,10
+VKT,R,2022-11-21,H93811,Repeater PUMP Tube Sets Sterile,CIA,Baxter Healthcare Corp.,RM-21112022-0003,2025-05-31,10,PCS,10
+VKT,R,2022-11-22,96-2670,"FORCEPS, Dressing 5 1/2""",Fisher Scientific,Sklar Corp,RM-22112022-0005,2025-02-17,25,PCS,23
+VKT,Q,2022-11-30,SS264-1,"Sodium Hydroxide, 2N",Fisher Scientific,Fisher Scientific,RM-30112022-0001,2022-02-28,2,Liter,2
+VKT,R,2022-11-29,120710F2,Weigh Boat,Fisher Scientific ,Fisher Scientific,RM-29112022-0001,2025-05-31,400,PCS,380
+VKT,R,2022-11-29,5922-1120,"Seals, Flip-Off 13mm (WHITE)",West Pharma,West Pharma,RM-29112022-0003,2024-08-14,5000,PCS,5000
+VKT,R,2022-11-29,5922-1125,"Seals, Flip-Off 13mm (RED)",West Pharma,West Pharma,RM-29112022-0002,2024-08-04,5000,PCS,2000
+LPI-GM,R,2022-11-14,5922-1120,"SEALS, 13mm Flip-Off CCS",West Pharma,West Pharma,RM-14112022-0001,2024-08-14,3000,PCS,3000
+LPI-GM,R,2022-12-05,1753366,"VIALS, 2R Fiolax",Schott,Schott,RM-05122022-0002,2025-07-31,5000,PCS,5000
+VKT,R,2022-12-20,8635C05/36102-B,"BOTTLES w/ CAPS, 2oz.",Berlin Packaging,Berlin Packaging,RM-20122022-0002,2027-12-20,600,PCS,600
+VKT,Q,2022-12-13,30-1352-529,VK2735,PSS,PSS,RM-13122022-0002,2023-03-07,38,Gram,37
+ELV,Q,2022-12-12,99007481,Aerosil 200 Pharma,Evonik,,RM-12122022-0001,2024-04-14,4535.9,Gram,4503.9
+ELV,Q,2022-12-12,5712,Magnesium Stearate,MallineKroat,,RM-12122022-0002,2027-01-31,40000,Gram,39903
+VKT,R,2022-12-07,19700360,"STOPPERs, 13mm NovaPure",West Pharma,West Pharma,RM-07122022-0001,2022-08-31,5000,PCS,1000
+VKT,R,2022-12-14,342040-1000,"BOTTLES, PET SQ, 1000mL",Fisher Scientific,,RM-14122022-0002,2027-09-12,24,PCS,24
+VKT ,R,2022-12-14,342040-650,"BOTTLES, PET SQ, 650mL",Fisher Scientific ,,RM-14122022-0001,2022-12-14,48,PCS,46
+VKT,R,2022-12-07,96-2514,"SCISSORS, Sterile 5.5""",Fisher Scientific ,Sklar Corp,RM-07122022-0002,2022-11-13,50,PCS,48
+VKT,R,2022-12-05,1753366,"VIALS, 2R Fiolax",Schott,Schott,RM-05122022-0001,2025-07-31,25000,PCS,22100
+VKT,R,2022-11-22,WFI-USP-1X6,"WFI, USP Sterile Grade 1x6",Cytiva,Hyclone,RM-22112022-0001,2025-09-21,24,Liter,22
+VKT,R,2022-12-13,8635C05/36102-B,"BOTTLES w/ CAPS, 2oz.",Berlin Packaging,Berlin Packaging,RM-13122022-0001,2027-12-13,800,PCS,800
+VKT,R,2022-12-13,MFLX 31311-61,"FITTINGS, PC 1/4"" 5/PK",Masterflex,,RM-13122022-0005,2025-04-25,50,PCS,45
+ELV,R,2022-12-19,10002984,Capsugel Size 3 Orange,Lonza,,RM-19122022-0002,2027-09-17,225000,PCS,223000
+ELV,R,2022-12-19,GOHCS001474,Capsugel Size 0 White,Lonza,,RM-19122022-0001,2027-08-06,200000,PCS,200000
+DAV,R,2022-12-20,KA1NFP2S,"FILTER, 0.2um Ultipor N66",Pall Corp,Pall Corp,RM-20122022-0001,2025-10-31,3,PCS,3
+XVR,R,2022-12-13,M2CAB,(API) -Octadecanoic Acid/M2CAB ,Anthem Bioscience,Anthem Bioscience,RM-13122022-0004,2023-06-06,1250,Grams,1250
+VKT,R,2022-12-22,36904-0000,"SCOOP, Sterile 4oz, 125mL",SP Bel-Art,SP Bel-Art,RM-22122022-0001,2027-12-22,100,PCS,93
+VKT,Q,2022-12-23,PR130-500MLPL,Propylene Glycol,Spectrum,Spectrum,RM-23122022-0002,2023-11-07,1000,mL,1000
+DAV,Q,2022-12-27,303001314,MIGLYOL 812N,Azelis,IOI Oleochemical,RM-27122022-0002,2025-04-28,25000,Gram,25000
+DAV,Q,2022-12-23,,DT-2216 (API),Anthem Bioscience,Anthem Bioscience,RM-23122022-0001,2023-12-01,100,Gram,99.75
+VKT,Q,2022-12-28,MK638860,"Hydrochloric Acid, 1.0N",Avantor,Avantor,RM-28122022-0001,2026-10-19,1000,mL,1000
+VKT,Q,2022-12-27,59300-1KG,Dibasic Sodium Phosphate,Spectrum,Spectrum,RM-27122022-0003,2024-09-01,1000,Grams,1000
+VKT,R,2022-12-27,342040-0250,"BOTTLE, 250mL PET Media",Fisher Scientific,Fisher Scientific,RM-27122022-0001,2027-05-16,60,PCS,60
+HWK,Q,2023-01-03,T1708-1KGBL,Tyloxapol,Spectrum,Spectrum,RM-03012023-0001,2025-07-01,1000,Grams,1000
+VKT,R,2023-01-03,139038,"Pipet 6.0ml, 225mm 9""",globe scientific,globe scientific ,RM-03012023-0002,2027-01-20,400,PCS,386
+VKT,R,2022-11-22,H93811,Repeater PUMP Tube Sets Sterile,CIA,Baxter Healthcare Corp.,RM-22112022-0004,2025-05-31,10,PCS,10
+VKT,R,2022-11-29,5922-1125,Flip-OFF SEALS 13mm (Red),West Pharma,,RM-2942022-0002,2024-08-04,5000,PCS,3000
+ELV,R,2022-09-30,NF2005,Gelatin Capsules Size 2 (White),"Qualicaps, Inc",,RM-30092022-0001,2024-09-30,10000,PCS,10000
+VKT,R,2023-01-04,04-355-226,Ethul Alcohol 190 Proof,Lab Alley,,RM-04012023-0002,2023-01-04,4,Gal,4
+VKT,R,2023-01-04,EAPHPLC200-1GAL,Ethul Alcohol 200 Proof,Lab Alley,,RM-04012023-0001,,4,Gal,4
+VKT,R,2022-11-22,30-1352-529,VK2735,PSS,,RM-22112022-0003,,45,Grams,45
+ELV,R,2023-01-04,0743720,Supertab 11SD,IMCD,,RM-04012023-0005,2024-05-31,40000,Grams,39970.3
+DAV,R,2023-01-04,552664,Sodium Hydroxide Solution 1N,Fisher Scientific,,RM-04012023-0006,2024-09-30,4000,Liter,4000
+VKT,R,2023-01-04,16-800-513,"Stirbar, Polygon PTFE 80x10mm",Fisherbrand,,RM-04012023-0003,,9,PCS,9
+DAV,R,2023-01-04,3740-32G,"Hydrochloric Acid, 5.00 Normal",Fisher Scientific,,RM-04012023-0004,2024-07-31,1000,mL,1000
+DAV,R,2023-01-06,31311-12,"Fittings PC 3/8""",Avantor,,RM-06012023-0002,2025-05-21,30,PCS,30
+VKT,R,2022-12-07,137171,Polysorbate 80,EMD Millipore,Sigma Aldrich,RM-07122022-003,2023-05-31,100,mL,99.9
+LPI,R,2023-01-06,S2GPUIORE,Stericup-GP 500/1000mL Express Plus PES,Millipore Sigma,,RM-06012023-0001,2025-02-28,24,PK,24
